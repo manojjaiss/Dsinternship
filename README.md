@@ -1,2 +1,2 @@
 # Dsinternship
-comesoft Technologies 
+comsoft Technologies 
